@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Altu-Bitu/Altu-Bitu-LeeYoonJoo/04_브루트포스",
-      "program": "c:/Altu-Bitu/Altu-Bitu-LeeYoonJoo/04_브루트포스/build/Debug/outDebug",
+      "cwd": "c:/Altu-Bitu/Altu-Bitu-LeeYoonJoo/05_우선순위큐",
+      "program": "c:/Altu-Bitu/Altu-Bitu-LeeYoonJoo/05_우선순위큐/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
